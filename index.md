@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-_The Old Stoa_
+##_The Old Stoa_
 
 Esta es mi página en la que compartiré muchas de las actividades que haga en el curso de _Humanidades Digitales_ con el profesor [Ernesto Priani Saisó](https://github.com/ficino2021). Estas actividades son:
 
