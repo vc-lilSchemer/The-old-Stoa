@@ -2,6 +2,6 @@
 theme: jekyll/minima
 title: The old Stoa
 author:
- name: Víctor Campos
- email: vcamposch1234@protonmail.com
+  name: Víctor Campos
+  email: vcamposch1234@protonmail.com
 description: "Sitio de actividades para la materia de Humanidades Digitales 2022-1"
