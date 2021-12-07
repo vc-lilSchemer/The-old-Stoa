@@ -1,0 +1,9 @@
+# Site settings
+title: Edad Media III 
+author:
+  name: Ernesto Priani 
+  email: epriani@filos.unam.mx
+description: "Sito de la clase de Historia de la filosofía III"
+
+# Build settings
+remote_theme: jekyll/minima
