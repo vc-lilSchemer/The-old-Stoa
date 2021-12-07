@@ -1,9 +1,9 @@
 # Site settings
-title: Edad Media III 
+title: The old Stoa
 author:
-  name: Ernesto Priani 
-  email: epriani@filos.unam.mx
-description: "Sito de la clase de Historia de la filosofía III"
+  name: Víctor Campos 
+  email: vcamposch1234@protonmail.com
+description: "Sitio de actividades para la materia de Humanidades Digitales 2022-1"
 
 # Build settings
 remote_theme: jekyll/minima
