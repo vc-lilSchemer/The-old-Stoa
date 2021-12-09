@@ -33,7 +33,6 @@ En torno a esto, Zenón fue el primero que en [su obra] *Sobre la naturaleza del
 
 
 Proclama Zenón y aquel Pórtico todo entero grita que el hombre para nada ha nacido sino para la virtud; que ella misma con su resplandor atrae las almas hacia sí, sin que se ofrezca desde afuera absolutamente ningún provecho o recompensa a modo de seducción; que el placer aquel de Epicuro sólo entre las bestias es común, en cuya compañía no es justo meter al hombre y al sabio. 
-Virtud: suficiente pa’ felicidad
 
 
 **302** DIÓGENES LAERCIO, VII 127 [*S. V. F.* I 187]
